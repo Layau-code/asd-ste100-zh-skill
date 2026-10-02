@@ -1,0 +1,4 @@
+interface:
+  display_name: "STE100 中文适配"
+  short_description: "为中文技术说明、指令和状态文本消除歧义"
+  default_prompt: "用 $asd-ste100-zh 改写下面的中文技术文本，保留原意和不确定性。"
